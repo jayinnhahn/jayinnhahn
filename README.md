@@ -37,13 +37,11 @@
 <div align = "center" >
 
 <div>
-<img src = "https://github-readme-stats.vercel.app/api?username=jayinnhahn&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" >
-</div>
+<!-- <img src = "https://github-readme-stats.vercel.app/api?--> 
+<!--username=jayinnhahn&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"> -->
+<!-- </div> -->
 
-<div>
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayinnhahn&theme=dracula&hide_border=true">
-</div>
-
-
-
-</div>
+<!-- <div> -->
+<!-- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayinnhahn&theme=dracula&hide_border=true"> -->
+<!-- </div> -->
+<!-- </div> -->
