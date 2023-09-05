@@ -1,4 +1,4 @@
-<img src = "https://thumbs.gfycat.com/EverlastingDirectAfricanfisheagle-size_restricted.gif" width = "100%" align = "center" loop = infinite/>
+<img src = "https://github.com/jayinnhahn/jayinnhahn/assets/60001990/0386db39-db2b-47df-bfba-9b5c70e298c6" width = "100%" height ="auto" align = "center" loop = infinite/>
 
 <h3 align="center">Connect with me:</h3>
 
