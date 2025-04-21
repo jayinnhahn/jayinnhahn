@@ -1,8 +1,9 @@
-<img src = "https://github.com/jayinnhahn/jayinnhahn/assets/60001990/0386db39-db2b-47df-bfba-9b5c70e298c6" width = "100%" height ="auto" align = "center" loop = infinite/>
+<div align = "center" >
+
+<img src = "https://github.com/jayinnhahn/jayinnhahn/assets/60001990/0386db39-db2b-47df-bfba-9b5c70e298c6" width = "60%" height ="auto" align = "center" loop = infinite/>
 
 <h3 align="center">Connect with me:</h3>
 
-<div align = "center" >
 <a href = "https://www.facebook.com/jayinnhahn/">
 <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
@@ -34,14 +35,3 @@
 
 <br/>
 
-<div align = "center" >
-
-<div>
-<!-- <img src = "https://github-readme-stats.vercel.app/api?--> 
-<!--username=jayinnhahn&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"> -->
-<!-- </div> -->
-
-<!-- <div> -->
-<!-- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayinnhahn&theme=dracula&hide_border=true"> -->
-<!-- </div> -->
-<!-- </div> -->
